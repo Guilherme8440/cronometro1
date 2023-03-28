@@ -1,0 +1,38 @@
+
+@font-face {
+    font-family: guilherme;
+    src: url(aurora_pro/AURORA-PRO.otf);
+}
+@font-face {
+    font-family: guilherme2;
+    src: url(28_days_later/28\ Days\ Later.ttf);
+}
+* {
+    text-align: center;
+    
+}
+
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/23/13/48/beach-1852945_960_720.jpg);
+    background-size: cover;
+
+    
+
+}
+button {
+    font-size: 30px;
+    font-family:guilherme2 ;
+    background: rgb(29, 94, 129);
+}
+
+h2 {
+    font-size: 80px;
+    font-family: guilherme ;
+    color:rgb(28, 105, 153) ;
+    
+}
+.number {
+    font-size: 50px;
+}
